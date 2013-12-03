@@ -124,3 +124,9 @@ font-family: Webdings, sans-serif;
 font-family: Wingdings, 'Zapf Dingbats', sans-serif;
 ```
 
+License
+-------
+
+Copyright (C) 2013 Acauã Montiel
+
+MIT License (see the LICENSE file)
