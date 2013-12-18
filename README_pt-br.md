@@ -129,4 +129,4 @@ License
 
 Copyright (C) 2013 Acauã Montiel
 
-MIT License (see the LICENSE file)
+[MIT License](http://acaua.mit-license.org/)
